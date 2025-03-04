@@ -21,8 +21,8 @@ const CONFIG = {
   HEO_HERO_TITLE_1: '分享编程',
   HEO_HERO_TITLE_2: '与思维认知',
   HEO_HERO_TITLE_3: 'fangmu.am',
-  HEO_HERO_TITLE_4: '从心出发',
-  HEO_HERO_TITLE_5: '云雾散开，山河皆在我眼中。',
+  HEO_HERO_TITLE_4: '奔赴山海',
+  HEO_HERO_TITLE_5: '云雾散开，山河皆在我眼。',
   HEO_HERO_TITLE_LINK: 'https://blog.fangmu.icu',
   // 英雄区遮罩文字
   HEO_HERO_COVER_TITLE: '随便逛逛',
