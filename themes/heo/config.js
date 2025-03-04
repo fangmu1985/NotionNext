@@ -22,7 +22,7 @@ const CONFIG = {
   HEO_HERO_TITLE_2: '与思维认知',
   HEO_HERO_TITLE_3: 'fangmu.am',
   HEO_HERO_TITLE_4: '奔赴山海',
-  HEO_HERO_TITLE_5: '云雾散开，山河皆在我眼。',
+  HEO_HERO_TITLE_5: '云雾散尽，山河皆在我眼。',
   HEO_HERO_TITLE_LINK: 'https://blog.fangmu.icu',
   // 英雄区遮罩文字
   HEO_HERO_COVER_TITLE: '随便逛逛',
@@ -53,8 +53,6 @@ const CONFIG = {
   HEO_INFO_CARD_ICON1: 'fas fa-user',
   HEO_INFO_CARD_URL2: 'https://blog.fangmu.icu',
   HEO_INFO_CARD_ICON2: 'fab fa-github',
-   HEO_INFO_CARD_URL4: 'https://blog.fangmu.icu',
-  HEO_INFO_CARD_ICON4: 'fab fa-github',
   HEO_INFO_CARD_URL3: 'https://blog.fangmu.icu',
   HEO_INFO_CARD_TEXT3: '了解更多',
 
