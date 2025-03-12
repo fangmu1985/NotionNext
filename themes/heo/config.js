@@ -18,9 +18,9 @@ const CONFIG = {
   HEO_HERO_BODY_REVERSE: false,
 
   // 英雄区(首页顶部大卡)
-  HEO_HERO_TITLE_1: '分享编程',
+  HEO_HERO_TITLE_1: '分享生活',
   HEO_HERO_TITLE_2: '与思维认知',
-  HEO_HERO_TITLE_3: 'fangmu.am',
+  HEO_HERO_TITLE_3: '木三行',
   HEO_HERO_TITLE_4: '奔赴山海',
   HEO_HERO_TITLE_5: '云雾散尽，山河皆在我眼。',
   HEO_HERO_TITLE_LINK: 'https://blog.fangmu.icu',
